@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Felipa&display=swap');
+
+body {
+    background-image: url("https://i.pinimg.com/736x/7b/40/de/7b40de5b7013f00bd80add351a8d31b7.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    text-align: center;
+    color:#ffe53a;
+    font-family: felipa, sans-serif;
+}
+
+span {
+    background-color: rgb(0, 0, 0);
+    padding: 0 20px;
+}
+
+audio{
+    display: block;
+    margin: 10px auto;
+}
+
+p {
+    font-size: 25px;
+}
+h1 {
+    font-size: 40px;
+}
+
+img {
+    width:500px;
+}
